@@ -1,0 +1,44 @@
+ body{
+    background-color: 
+ }
+ ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+ }
+
+li{
+    padding: 10px;
+    font-size: x-large;
+    font-weight: bolder;
+}
+.top{
+    margin-top: 50px;
+}
+
+
+
+.butt{
+ 
+ margin-left: 50px;
+}
+
+ 
+
+ 
+
+
+li a{
+    color:black;
+    text-decoration: none;
+}
+
+ul li a:hover{
+    color: aqua;
+    text-decoration: underline;
+}
+img{
+    border-radius: 360%;
+    
+   
+}
