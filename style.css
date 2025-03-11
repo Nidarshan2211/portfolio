@@ -19,9 +19,25 @@ li{
 .butt{
  
  margin-left: 50px;
+ margin-top: 20px;
+}
+.pic-out{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 100%;
+    height: 50vh;
+    width: 50vb !important;
+    background-color: rgb(95, 95, 95);
+
+    
 }
 img{
-border-radius: 360%;
+border-radius: 100%;
+height: 45vh;
+width: 45vb !important ;
+border: 1px solid black;
 
 }
 
