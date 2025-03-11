@@ -1,6 +1,4 @@
- body{
-    background-color: 
- }
+ 
  ul{
     list-style-type: none;
     display: flex;
@@ -13,7 +11,7 @@ li{
     font-weight: bolder;
 }
 .top{
-    margin-top: 50px;
+    margin-top: 60px;
 }
 
 
@@ -22,11 +20,10 @@ li{
  
  margin-left: 50px;
 }
+img{
+border-radius: 360%;
 
- 
-
- 
-
+}
 
 li a{
     color:black;
@@ -37,8 +34,4 @@ ul li a:hover{
     color: aqua;
     text-decoration: underline;
 }
-img{
-    border-radius: 360%;
-    
-   
-}
+
